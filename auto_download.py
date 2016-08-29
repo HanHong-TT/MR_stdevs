@@ -1,7 +1,7 @@
 """
 Created on Tue Aug 09 10:59:05 2016
 
-@author: Han Hong
+@author: Han Hong (TT)
 """
 
 import ftplib
